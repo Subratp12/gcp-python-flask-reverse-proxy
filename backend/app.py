@@ -7,9 +7,9 @@ CORS(app)
 
 # Database Configuration
 db_config = {
-    'host': '34.61.89.248',  # mysql database public-ip
+    'host': '34.122.203.151,  # mysql database public-ip
     'user': 'test',
-    'password': 'admin@123',
+    'password': 'Devops123',
     'database': 'dev'
 }
 
